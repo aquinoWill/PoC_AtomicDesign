@@ -1,3 +1,5 @@
-# PoC_AtomicDesign
+# Gulp Starter for CSS Tricks Tutorial  
 
-This is exemplo how to can use Atomic Design in applications in Front-End. I use architecture ITCSS for structure my css.
+This repo is a gulp starter for this CSS Tricks tutorial. 
+
+Remember to do run the `npm install` command after cloning this repo :) 
